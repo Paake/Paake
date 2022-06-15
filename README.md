@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="350"/>
-  
+  <img src="https://media.giphy.com/media/i4k2co8VD5qNTHbvN7.gif" width="350"/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/danilo-gomez-03b65a232">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
