@@ -19,9 +19,12 @@
 ### :man_technologist: About me:
 IT Engineer and Front-end Developer from Mexico.
 - 💬 I am self-taught in front-end, app development and Python.
-- 🌴Passionate to learn more.
-- ⚡In my free time, I read technology articles and go mountain biking.
+- 🌴 Passionate to learn more.
+- ⚡ In my free time, I read technology articles and go mountain biking.
 - 📫 How to reach me: **dnilo.gmmz@gmail.com**
+<a href="">
+  <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Me Badge"/>
+</a>
 
 --- 
 
