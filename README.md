@@ -16,3 +16,9 @@
   
   # Hey there 👋
 </div> 
+
+### :man_technologist: About me:
+IT Engineer and Front-end Developer from Mexico.
+- 💬 I am self-taught in front-end, app development and Python.
+- 🌴Passionate to learn more.
+- ⚡In my free time, I read technology articles and go mountain biking.
